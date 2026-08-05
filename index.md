@@ -82,7 +82,7 @@ Linux, Fedora, CentOS/RHEL/Rocky, Debian/antiX, BSD, FreeBSD, DragonflyBSD, NetB
 
 - Architect and lead developer of Disseminator -- an Apache Camel-based content dissemination pipeline that indexes Red Hat knowledge base content (errata, solutions, articles) into Solr for Customer Portal search
 - Managed 300+ production releases through automated CI/CD pipelines (Jenkins, SonarQube, GitLab)
-- Architect of four open source Java libraries under the Red Hat GitHub organization ([github.com/redhataccess](https://github.com/redhataccess)): pipeline, command, command-lang, and commons
+- Architect of four open source Java libraries under the [Red Hat GitHub organization](https://github.com/redhataccess): [pipeline](https://github.com/redhataccess/pipeline), [command](https://github.com/redhataccess/command), [command-lang](https://github.com/redhataccess/command-lang), and [commons](https://github.com/redhataccess/commons)
 - Built and maintained production monitoring and alerting infrastructure (Splunk, New Relic)
 - System administrator for search infrastructure; responsible for system stability and uptime
 - Java developer/architect, release engineer, and continuous delivery champion
