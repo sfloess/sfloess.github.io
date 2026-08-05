@@ -36,7 +36,11 @@ U.S. Patent 6,442,565 for distributed computing technologies.
 **Open Source:**
 - [Personal sfloess](https://github.com/sfloess)
 - [Architect FlossWare](https://github.com/FlossWare)
-- [Co-Architect Solenopsis](http://solenopsis.org/Solenopsis)
+- [Solenopsis](https://github.com/solenopsis)
+  - Co-Architect [Solenopsis](https://github.com/solenopsis/Solenopsis)
+  - Architect [soap](https://github.com/solenopsis/soap)
+  - Architect [session](https://github.com/solenopsis/session)
+  - Architect [metadata](https://github.com/solenopsis/metadata)
 - [Co-Architect Red Hat Access](https://github.com/redhataccess)
   - [commons](https://github.com/redhataccess/commons) | [command](https://github.com/redhataccess/command) | [command-lang](https://github.com/redhataccess/command-lang) | [pipeline](https://github.com/redhataccess/pipeline)
 
