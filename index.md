@@ -7,7 +7,7 @@ title: Scot Floess - Resume
 **Senior Principal Software Engineer / Search Engineering at Red Hat**
 Louisburg, North Carolina, United States
 
-**Contact:** scot.floess@gmail.com
+**Contact:** [scot.floess@gmail.com](mailto:scot.floess@gmail.com)
 **LinkedIn:** [www.linkedin.com/in/scot-floess-a535a41](https://www.linkedin.com/in/scot-floess-a535a41)
 **GitHub:** [sfloess](https://github.com/sfloess) | [FlossWare](https://github.com/FlossWare) | [Solenopsis](https://github.com/solenopsis)
 
