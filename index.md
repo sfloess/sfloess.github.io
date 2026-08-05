@@ -34,10 +34,10 @@ Louisburg, North Carolina, United States
 U.S. Patent 6,442,565 for distributed computing technologies.
 
 **Open Source:**
-- Personal: [github.com/sfloess](https://github.com/sfloess)
-- Architect FlossWare: [github.com/FlossWare](https://github.com/FlossWare)
-- Co-Architect Solenopsis: [solenopsis.org](http://solenopsis.org/Solenopsis)
-- Co-Architect Red Hat Access: [github.com/redhataccess](https://github.com/redhataccess)
+- [Personal sfloess](https://github.com/sfloess)
+- [Architect FlossWare](https://github.com/FlossWare)
+- [Co-Architect Solenopsis](http://solenopsis.org/Solenopsis)
+- [Co-Architect Red Hat Access](https://github.com/redhataccess)
   - [commons](https://github.com/redhataccess/commons) | [command](https://github.com/redhataccess/command) | [command-lang](https://github.com/redhataccess/command-lang) | [pipeline](https://github.com/redhataccess/pipeline)
 
 **Operating Systems:**
