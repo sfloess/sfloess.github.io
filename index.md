@@ -29,7 +29,7 @@ Louisburg, North Carolina, United States
 
 ## Summary
 
-U.S. Patent 6,442,565 for distributed computing technologies.
+[U.S. Patent 6,442,565](https://patents.google.com/patent/US6442565) for distributed computing technologies.
 
 **Open Source:**
 - [Personal sfloess](https://github.com/sfloess)
@@ -183,7 +183,7 @@ Responsible for TL1 Management related functionality. This included mentoring ju
 **Senior Software Engineer**
 *March 1997 - September 1999 (2 years 7 months)*
 
-Main duties centered on research and development, specifically in the development of high-performance, distributed, n-tiered architectures in Java (JDK 1.1x) running on Solaris, Linux and Windows. Although doing research, the goal was to develop viable, working class libraries in which HiddenMind Technologies, Inc. could tackle applications in vertical markets. CMVC was used for source control and feature/defect tracking. Cafe/Visual Cafe Database Development Edition used if developing on Windows, or GVIM/make on Solaris. Received U.S. Patent 6,442,565 for distributed computing technologies.
+Main duties centered on research and development, specifically in the development of high-performance, distributed, n-tiered architectures in Java (JDK 1.1x) running on Solaris, Linux and Windows. Although doing research, the goal was to develop viable, working class libraries in which HiddenMind Technologies, Inc. could tackle applications in vertical markets. CMVC was used for source control and feature/defect tracking. Cafe/Visual Cafe Database Development Edition used if developing on Windows, or GVIM/make on Solaris. Received [U.S. Patent 6,442,565](https://patents.google.com/patent/US6442565) for distributed computing technologies.
 
 ---
 
