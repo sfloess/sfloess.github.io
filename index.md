@@ -73,7 +73,7 @@ Linux, Fedora, CentOS/RHEL/Rocky, Debian/antiX, FreeBSD, DragonflyBSD, NetBSD
 ### Red Hat
 *19 years 2 months*
 
-#### Senior Principal Software Engineer, Search Engineering
+#### Senior Principal Software Engineer, Architect / Search Engineering
 *April 2025 - Present*
 
 - GitOps-managed observability: Sumo Logic dashboards and alerts version-controlled in GitLab with automated deployment
@@ -82,7 +82,7 @@ Linux, Fedora, CentOS/RHEL/Rocky, Debian/antiX, FreeBSD, DragonflyBSD, NetBSD
 - Continuing ownership of Disseminator content pipeline (312+ releases, v2.531)
 - Author of open source libraries actively used at Red Hat: [commons-java](https://github.com/FlossWare/commons-java) ([FlossWare](https://github.com/FlossWare)), [soap](https://github.com/solenopsis/soap) and [session](https://github.com/solenopsis/session) ([Solenopsis](https://github.com/solenopsis)) -- underpinning SFDeasy, Red Hat's internal Java library for Salesforce integration providing SOAP API clients for 15+ custom web services and a fluent SOQL query builder
 
-#### Principal Software Engineer, Search Engineering
+#### Principal Software Engineer, Architect / Search Engineering
 *September 2016 - April 2025 (8 years 8 months)*
 
 - Architect and lead developer of Disseminator -- an Apache Camel-based content dissemination pipeline that indexes Red Hat knowledge base content (errata, solutions, articles) into Solr for Customer Portal search
