@@ -81,6 +81,16 @@ Fedora, CentOS/RHEL/Rocky, Debian/antiX, FreeBSD, DragonflyBSD, NetBSD
 - Authored comprehensive team onboarding documentation covering Jira, GitLab, Solr, AWS, Sumo Logic, and dev environment setup
 - Continuing ownership of Disseminator content pipeline (312+ releases, v2.531)
 - Author of open source libraries actively used at Red Hat: [commons-java](https://github.com/FlossWare/commons-java) ([FlossWare](https://github.com/FlossWare)), [soap](https://github.com/solenopsis/soap) and [session](https://github.com/solenopsis/session) ([Solenopsis](https://github.com/solenopsis)) -- underpinning SFDeasy, Red Hat's internal Java library for Salesforce integration providing SOAP API clients for 15+ custom web services and a fluent SOQL query builder
+- Embracing Red Hat's AI-first mantra and acquainting myself with AI technologies, designed and built a distributed LLM orchestration framework:
+  - Multi-model consensus and adversarial review across 200+ LLMs from multiple providers
+  - Thompson Sampling (Bayesian bandit) for intelligent model routing
+  - Genetic algorithms for configuration evolution and optimization
+  - Web scraping pipeline with 116+ automated scrapers across 15+ domains
+  - PostgreSQL with pgvector for document chunking, vector embeddings, HNSW indexing, and semantic retrieval
+  - OrientDB for knowledge graph traversal and relationship mapping
+  - Redis for pipeline queuing, rate limiting, and caching
+  - Fleet-based task distribution across 9 nodes with Ansible-automated deployment
+  - Integrated with Claude Code, G Suite, Ansible Tower, Jira, GitLab, GitHub, Sumo Logic, Trello, Grafana, Prometheus, and Notion
 
 #### Principal Software Engineer / Architect, Search Engineering
 *September 2016 - April 2025 (8 years 8 months)*
