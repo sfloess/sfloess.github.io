@@ -13,6 +13,10 @@ Louisburg, North Carolina, United States
 
 ---
 
+## Patent
+
+- [U.S. Patent 6,442,565](https://patents.google.com/patent/US6442565) -- Distributed computing technologies
+
 ## Top Skills
 
 - Java
@@ -30,8 +34,6 @@ Louisburg, North Carolina, United States
 ---
 
 ## Summary
-
-[U.S. Patent 6,442,565](https://patents.google.com/patent/US6442565) for distributed computing technologies.
 
 **Open Source:**
 - [Personal sfloess](https://github.com/sfloess)
