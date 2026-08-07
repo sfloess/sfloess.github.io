@@ -48,7 +48,7 @@ Louisburg, North Carolina, United States
   - [pipeline](https://github.com/redhataccess/pipeline)
 
 **Operating Systems:**
-Linux, Fedora, CentOS/RHEL/Rocky, Debian/antiX, FreeBSD, DragonflyBSD, NetBSD
+Fedora, CentOS/RHEL/Rocky, Debian/antiX, FreeBSD, DragonflyBSD, NetBSD
 
 **Provisioning:** KOAN/Cobbler
 
