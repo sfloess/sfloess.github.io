@@ -33,7 +33,7 @@ Louisburg, North Carolina, United States
 
 ---
 
-## Summary
+## Technical Skills
 
 **Open Source:**
 - [Personal sfloess](https://github.com/sfloess)
@@ -48,7 +48,7 @@ Louisburg, North Carolina, United States
   - [pipeline](https://github.com/redhataccess/pipeline)
 
 **Operating Systems:**
-Linux, Fedora, CentOS/RHEL/Rocky, Debian/antiX, BSD, FreeBSD, DragonflyBSD, NetBSD
+Linux, Fedora, CentOS/RHEL/Rocky, Debian/antiX, FreeBSD, DragonflyBSD, NetBSD
 
 **Provisioning:** KOAN/Cobbler
 
