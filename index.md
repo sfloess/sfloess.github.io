@@ -1,8 +1,8 @@
 ---
-title: Scot Floess - Resume
+title: Scot P. Floess - Resume
 ---
 
-# Scot Floess
+# Scot P. Floess
 
 **Senior Principal Software Engineer / Search Engineering at Red Hat**
 Louisburg, North Carolina, United States
