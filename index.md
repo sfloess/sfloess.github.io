@@ -80,7 +80,7 @@ Linux, Fedora, CentOS/RHEL/Rocky, Debian/antiX, FreeBSD, DragonflyBSD, NetBSD
 - Leading Splunk decommissioning and migration to Sumo Logic across Search Engineering
 - Authored comprehensive team onboarding documentation covering Jira, GitLab, Solr, AWS, Sumo Logic, and dev environment setup
 - Continuing ownership of Disseminator content pipeline (312+ releases, v2.531)
-- Author of open source libraries actively used at Red Hat: commons-java (FlossWare), soap and session (Solenopsis) -- underpinning SFDeasy, Red Hat's internal Java library for Salesforce integration providing SOAP API clients for 15+ custom web services and a fluent SOQL query builder
+- Author of open source libraries actively used at Red Hat: [commons-java](https://github.com/FlossWare/commons-java) ([FlossWare](https://github.com/FlossWare)), [soap](https://github.com/solenopsis/soap) and [session](https://github.com/solenopsis/session) ([Solenopsis](https://github.com/solenopsis)) -- underpinning SFDeasy, Red Hat's internal Java library for Salesforce integration providing SOAP API clients for 15+ custom web services and a fluent SOQL query builder
 
 #### Principal Software Engineer, Search Engineering
 *September 2016 - April 2025 (8 years 8 months)*
