@@ -1,5 +1,5 @@
 ---
-title: Scot P. Floess - Resume
+title: Scot P. Floess - Résumé
 ---
 
 # Scot P. Floess
@@ -224,7 +224,7 @@ Designed an extensive class hierarchy of client/server C++ objects consisting of
 
 ### AlliedSignal Automotive
 **Computer Programmer/Software Developer**
-*May 1989 - June 1993 (4 years 2 months)
+*May 1989 - June 1993 (4 years 2 months)*
 
 Developed a robust C++ class library encompassing persistent, container, task and message objects using Borland C++ 2.0.
 
