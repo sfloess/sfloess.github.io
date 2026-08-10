@@ -4,7 +4,9 @@ title: Scot P. Floess - Resume
 
 # Scot P. Floess
 
-**Search Engineering · Red Hat**
+27 Lake Royale  
+957 Sagamore Drive  
+Louisburg, NC 27549
 
 - **Email:** [scot.floess@gmail.com](mailto:scot.floess@gmail.com)
 - **LinkedIn:** [Scot P. Floess](https://www.linkedin.com/in/scot-floess-a535a41)
@@ -152,7 +154,7 @@ Designed/implemented BPEL (Business Process Execution Language) processes for th
 *February 2007 - July 2007 (6 months)*
 Morrisville, NC
 
-Wrote/presented high level technical documents based upon a combination of business requirements, functional specifications and technical design documents. Evaluated aforementioned documentation for "holes" or potential technical issues. Performed code reviews as well as developmental assistance (write code) when necessary to meet deadlines. Investigated new technologies for potential future developmental use. Analyzed/troubleshot application failures as issues arise. Platform supported JDK 1.4.2_02 and IBM Websphere Application Server 5.x. CVS used for source control.
+Wrote/presented high level technical documents based upon a combination of business requirements, functional specifications and technical design documents. Evaluated aforementioned documentation for "holes" or potential technical issues. Performed code reviews as well as developmental assistance (write code) when necessary to meet deadlines. Investigated new technologies for potential future developmental use. Analyzed/troubleshot application failures as issues arise. Platform supported JDK 1.4.2_02 and IBM Websphere Application Server 5.x. CVS used for source control and defect/feature tracking. 
 
 ---
 
@@ -222,7 +224,7 @@ Designed an extensive class hierarchy of client/server C++ objects consisting of
 
 ### AlliedSignal Automotive
 **Computer Programmer/Software Developer**
-*May 1989 - June 1993 (4 years 2 months)*
+*May 1989 - June 1993 (4 years 2 months)
 
 Developed a robust C++ class library encompassing persistent, container, task and message objects using Borland C++ 2.0.
 
