@@ -4,12 +4,12 @@ title: Scot P. Floess - Resume
 
 # Scot P. Floess
 
-**Senior Principal Software Engineer / Search Engineering at Red Hat**
-Louisburg, North Carolina, United States
+**Search Engineering · Red Hat**
 
 - **Email:** [scot.floess@gmail.com](mailto:scot.floess@gmail.com)
 - **LinkedIn:** [Scot P. Floess](https://www.linkedin.com/in/scot-floess-a535a41)
 - **GitHub:** [sfloess](https://github.com/sfloess) / [FlossWare](https://github.com/FlossWare) / [Solenopsis](https://github.com/solenopsis)
+- **Web:** [FlossWare](https://flossware.org) / [Solenopsis](https://solenopsis.github.io)
 
 ---
 
@@ -71,7 +71,7 @@ Fedora, CentOS/RHEL/Rocky, Debian/antiX, FreeBSD, DragonflyBSD, NetBSD
 ## Experience
 
 ### Red Hat
-*19 years 2 months*
+**Search Engineering**
 
 #### Senior Principal Software Engineer / Architect, Search Engineering
 *April 2025 - Present*
