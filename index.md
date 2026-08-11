@@ -13,7 +13,7 @@ Louisburg, NC
 
 ## Profile
 
-Senior Principal Software Engineer and architect specializing in **search, distributed systems, enterprise integration, AI/ML, and knowledge platforms**. More than 35 years of software engineering experience, including nearly two decades at Red Hat, designing and delivering production systems across search, content pipelines, Salesforce integration, cloud infrastructure, and developer platforms. Architect of production Apache Solr search systems and distributed AI platforms incorporating multi-model consensus, semantic retrieval, vector search, knowledge graphs, and evolutionary optimization. Open-source architect and inventor with a U.S. patent in distributed computing.
+Senior Principal Software Engineer and architect specializing in **search, distributed systems, enterprise integration, AI/ML, and knowledge platforms**. More than 35 years of software engineering experience, including nearly two decades at Red Hat, designing and delivering production systems across search, content pipelines, Salesforce integration, cloud infrastructure, and developer platforms. Architect of production Apache Solr search systems, with independent open-source work spanning AI orchestration, semantic retrieval, vector search, knowledge graphs, and model evaluation. Open-source architect and inventor with a U.S. patent in distributed computing.
 
 ## Core Expertise
 
@@ -26,19 +26,25 @@ Senior Principal Software Engineer and architect specializing in **search, distr
 - **DevOps & Delivery:** GitOps, GitLab, Jenkins, CI/CD, Ansible, automated release engineering
 - **Observability:** Sumo Logic, Splunk, New Relic, Grafana, Prometheus
 
-## Selected Architecture & Open Source
+## Independent Engineering & Open Source
 
 ### FlossWare
 **Founder / Architect** · [GitHub](https://github.com/FlossWare) · [flossware.org](https://flossware.org)
 
-Designed and built an open-source AI and knowledge-engineering ecosystem spanning web acquisition, semantic processing, vector retrieval, knowledge graphs, distributed orchestration, and model evaluation. The platform uses PostgreSQL/pgvector, OrientDB, Redis, and a distributed worker fleet, with modular reference implementations rather than infrastructure-specific assumptions.
+Designed and built an independent open-source AI and knowledge-engineering ecosystem spanning web acquisition, semantic processing, vector retrieval, knowledge graphs, distributed orchestration, and model evaluation. The platform uses PostgreSQL/pgvector, OrientDB, Redis, and a distributed worker fleet, with modular reference implementations rather than infrastructure-specific assumptions.
 
-### Red Hat Open Source
+## Red Hat Open Source
+
+### Solenopsis
+**Architect / Lead Developer**
+
+Started as an internal Red Hat Salesforce deployment and automation platform and subsequently released as open source with Red Hat's approval. Designed to automate Salesforce metadata deployment, configuration, and release workflows.
+
+### Red Hat Libraries & Projects
 **Architect / Co-Architect**
 
 - [commons](https://github.com/redhataccess/commons), [pipeline](https://github.com/redhataccess/pipeline), [command](https://github.com/redhataccess/command), and [command-lang](https://github.com/redhataccess/command-lang)
 - [SFDeasy](https://github.com/FlossWare/commons-java) supporting Salesforce integration, including SOAP clients and fluent SOQL construction
-- [Solenopsis](https://github.com/solenopsis/Solenopsis), an open-source Salesforce deployment and automation platform
 - [soap](https://github.com/solenopsis/soap), [session](https://github.com/solenopsis/session), and [metadata](https://github.com/solenopsis/metadata)
 
 ## Professional Experience
@@ -49,14 +55,11 @@ Designed and built an open-source AI and knowledge-engineering ecosystem spannin
 #### Senior Principal Software Engineer / Architect
 *April 2025 – Present*
 
-- Lead architecture and engineering for search-platform infrastructure, observability, content dissemination, and AI initiatives.
+- Lead architecture and engineering for search-platform infrastructure, observability, content dissemination, and related engineering initiatives.
 - Own the **Disseminator** content pipeline, now exceeding **312 production releases**, delivering Red Hat knowledge content into Solr for search.
 - Lead the Search Engineering migration from Splunk to Sumo Logic and establish GitOps-managed dashboards, alerts, and deployment workflows.
-- Designed and built a distributed LLM orchestration platform supporting multi-model consensus, adversarial review, intelligent model routing, and automated configuration optimization.
-- Built a knowledge pipeline with **116+ automated scrapers across 15+ domains**, PostgreSQL/pgvector semantic retrieval, HNSW indexing, OrientDB knowledge graphs, Redis queues, and distributed fleet execution.
-- Applied **Thompson Sampling** for model selection and **genetic algorithms** for configuration evolution and optimization.
-- Integrated engineering workflows with Claude Code, Ansible Tower, Jira, GitLab, GitHub, Sumo Logic, Grafana, Prometheus, Notion, and related development systems.
-- Author of open-source Java libraries used within Red Hat, including [commons-java](https://github.com/FlossWare/commons-java), [soap](https://github.com/solenopsis/soap), and [session](https://github.com/solenopsis/session).
+- Integrate engineering workflows with Claude Code, Ansible Tower, Jira, GitLab, GitHub, Sumo Logic, Grafana, Prometheus, Notion, and related development systems.
+- Author and maintain open-source Java libraries used within Red Hat, including [commons-java](https://github.com/FlossWare/commons-java), [soap](https://github.com/solenopsis/soap), and [session](https://github.com/solenopsis/session).
 
 #### Principal Software Engineer / Architect
 *September 2016 – April 2025*
@@ -88,7 +91,7 @@ Designed and built an open-source AI and knowledge-engineering ecosystem spannin
 #### Technical Lead, Customer Case Manager
 *November 2010 – June 2012*
 
-- Architected **Solenopsis**, an internal Salesforce deployment platform later released as open source.
+- Architected **Solenopsis**, an internal Salesforce deployment platform subsequently released as open source with Red Hat's approval.
 - Architected and led development of **Xylem**, integrating SAP Solution Manager/Service Marketplace with Red Hat Salesforce systems.
 - Automated development and production deployments using Solenopsis and Jenkins.
 
