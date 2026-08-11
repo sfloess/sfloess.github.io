@@ -19,14 +19,41 @@ body {
 }
 
 .page-header {
-  background: radial-gradient(circle at 15% 10%, rgba(79,70,229,.3), transparent 38%),
-              linear-gradient(135deg, #111827 0%, #1f2937 100%);
+  background: radial-gradient(circle at 15% 10%, rgba(79,70,229,.3), transparent 38%), linear-gradient(135deg, #111827 0%, #1f2937 100%);
   padding: 4.5rem 1rem 4rem;
   text-align: center;
 }
 
 .project-name { letter-spacing: -.045em; font-weight: 800; }
 .project-tagline { color: rgba(255,255,255,.84); }
+
+.resume-header {
+  text-align: center;
+  margin: 0 auto 3rem;
+}
+
+.resume-header h1 {
+  margin: 0 0 .35rem;
+  font-size: 2.6rem;
+  letter-spacing: -.045em;
+  line-height: 1.15;
+}
+
+.resume-header .resume-title {
+  margin: 0 0 .55rem;
+  color: #29344d;
+  font-size: 1.08rem;
+  line-height: 1.5;
+}
+
+.resume-header .resume-contact {
+  margin: 0;
+  color: var(--scot-muted);
+  line-height: 1.6;
+}
+
+.resume-header .resume-contact a { margin: 0 .1rem; }
+
 .main-content { max-width: 1050px; padding-top: 2.5rem; padding-bottom: 4rem; }
 .main-content h1 { font-size: 2.35rem; letter-spacing: -.035em; margin-top: 1rem; margin-bottom: .35rem; }
 .main-content h2 { margin-top: 3.2rem; padding-bottom: .55rem; border-bottom: 1px solid var(--scot-border); letter-spacing: -.025em; }
@@ -44,6 +71,9 @@ body {
   body { background: #fff; color: #111; font-size: 10.5pt; }
   .page-header, .site-footer { display: none; }
   .main-content { max-width: none; padding: 0; }
+  .resume-header { margin-bottom: 1.5rem; }
+  .resume-header h1 { font-size: 22pt; }
+  .resume-header .resume-title { font-size: 11pt; }
   .main-content h2 { margin-top: 1.5rem; break-after: avoid; }
   .main-content h3 { break-after: avoid; }
   .main-content a { color: inherit; text-decoration: none; }
@@ -52,6 +82,7 @@ body {
 @media (max-width: 720px) {
   .page-header { padding: 3.5rem 1rem; }
   .main-content { padding: 2rem 1rem 3rem; }
-  .main-content h1 { font-size: 1.9rem; }
+  .resume-header h1 { font-size: 2.15rem; }
+  .resume-header .resume-title { font-size: 1rem; }
   .main-content h2 { margin-top: 2.5rem; }
 }
