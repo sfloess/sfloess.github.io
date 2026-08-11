@@ -30,7 +30,13 @@ Senior Principal Software Engineer and architect specializing in **search, distr
 ### FlossWare
 **Founder / Architect** · [GitHub](https://github.com/FlossWare) · [flossware.org](https://flossware.org)
 
-Designed and built an independent open-source AI and knowledge-engineering ecosystem spanning web acquisition, semantic processing, vector retrieval, knowledge graphs, distributed orchestration, and model evaluation. The platform uses PostgreSQL/pgvector, OrientDB, Redis, and a distributed worker fleet, with modular reference implementations rather than infrastructure-specific assumptions.
+Designed and built an independent open-source AI and knowledge-engineering ecosystem spanning web acquisition, semantic processing, vector retrieval, knowledge graphs, distributed orchestration, and model evaluation.
+
+- Designed and built a distributed **LLM orchestration platform** supporting multi-model consensus, adversarial review, intelligent model routing, and automated configuration optimization.
+- Built a knowledge pipeline with **116+ automated scrapers across 15+ domains**, PostgreSQL/pgvector semantic retrieval, HNSW indexing, OrientDB knowledge graphs, Redis queues, and distributed fleet execution.
+- Applied **Thompson Sampling** for model selection and **genetic algorithms** for configuration evolution and optimization.
+- Built asynchronous processing stages for acquisition, storage, chunking, embedding, semantic retrieval, and graph construction.
+- Designed the platform around REST APIs and replaceable infrastructure implementations, keeping storage, queueing, vector, and graph technologies modular.
 
 ## Red Hat Open Source
 
