@@ -4,236 +4,186 @@ title: Scot P. Floess - Résumé
 
 # Scot P. Floess
 
-27 Lake Royale  
-957 Sagamore Drive  
-Louisburg, NC 27549
+**Senior Principal Software Engineer · Search Engineering · AI/ML · Distributed Systems**
 
-- **Email:** [scot.floess@gmail.com](mailto:scot.floess@gmail.com)
-- **LinkedIn:** [Scot P. Floess](https://www.linkedin.com/in/scot-floess-a535a41)
-- **GitHub:** [sfloess](https://github.com/sfloess) / [FlossWare](https://github.com/FlossWare) / [Solenopsis](https://github.com/solenopsis)
-- **Web:** [FlossWare](https://flossware.org) / [Solenopsis](https://solenopsis.github.io)
+Louisburg, NC  
+[Email](mailto:scot.floess@gmail.com) · [LinkedIn](https://www.linkedin.com/in/scot-floess-a535a41) · [GitHub](https://github.com/sfloess) · [FlossWare](https://github.com/FlossWare) · [Solenopsis](https://github.com/solenopsis)
 
 ---
 
-## Patent
+## Profile
 
-- [U.S. Patent 6,442,565](https://patents.google.com/patent/US6442565) -- Distributed computing technologies
+Senior Principal Software Engineer and architect specializing in **search, distributed systems, enterprise integration, AI/ML, and knowledge platforms**. More than 35 years of software engineering experience, including nearly two decades at Red Hat, designing and delivering production systems across search, content pipelines, Salesforce integration, cloud infrastructure, and developer platforms. Architect of production Apache Solr search systems and distributed AI platforms incorporating multi-model consensus, semantic retrieval, vector search, knowledge graphs, and evolutionary optimization. Open-source architect and inventor with a U.S. patent in distributed computing.
 
-## Top Skills
+## Core Expertise
 
-- Java
-- Apache Solr
-- Salesforce Integration
+- **Search & Information Retrieval:** Apache Solr, Lucene, indexing, semantic retrieval, relevance-oriented systems
+- **AI/ML & LLM Systems:** multi-model orchestration, consensus, adversarial evaluation, model routing, embeddings, vector search
+- **Distributed Systems:** asynchronous pipelines, message-driven architectures, fault tolerance, scaling, service integration
+- **Architecture & Leadership:** technical strategy, architecture, mentoring, code review, technical design, delivery ownership
+- **Enterprise Integration:** Java, REST/SOAP, Salesforce, Oracle, BPEL, Apache Camel, XSLT
+- **Knowledge Platforms:** document acquisition, semantic chunking, embeddings, vector databases, knowledge graphs
+- **DevOps & Delivery:** GitOps, GitLab, Jenkins, CI/CD, Ansible, automated release engineering
+- **Observability:** Sumo Logic, Splunk, New Relic, Grafana, Prometheus
 
-## Certifications
+## Selected Architecture & Open Source
 
-- Red Hat Certified Technician (Certificate Number 605010084735240)
-- Psychological Safety: Clear Blocks to Innovation, Collaboration, and Risk-Taking
-- Introduction to Artificial Intelligence
-- Prompt Engineering with Gemini (2024)
-- Ethics in the Age of Generative AI
+### FlossWare
+**Founder / Architect** · [GitHub](https://github.com/FlossWare) · [flossware.org](https://flossware.org)
 
----
+Designed and built an open-source AI and knowledge-engineering ecosystem spanning web acquisition, semantic processing, vector retrieval, knowledge graphs, distributed orchestration, and model evaluation. The platform uses PostgreSQL/pgvector, OrientDB, Redis, and a distributed worker fleet, with modular reference implementations rather than infrastructure-specific assumptions.
 
-## Technical Skills
+### Red Hat Open Source
+**Architect / Co-Architect**
 
-**Open Source:**
-- [Personal sfloess](https://github.com/sfloess)
-- [Architect FlossWare](https://github.com/FlossWare)
-- [Solenopsis](https://github.com/solenopsis)
-  - Co-Architect [Solenopsis](https://github.com/solenopsis/Solenopsis)
-  - Architect [soap](https://github.com/solenopsis/soap), [session](https://github.com/solenopsis/session), [metadata](https://github.com/solenopsis/metadata)
-- [Co-Architect Red Hat Access](https://github.com/redhataccess)
-  - [commons](https://github.com/redhataccess/commons)
-  - [command](https://github.com/redhataccess/command)
-  - [command-lang](https://github.com/redhataccess/command-lang)
-  - [pipeline](https://github.com/redhataccess/pipeline)
+- [commons](https://github.com/redhataccess/commons), [pipeline](https://github.com/redhataccess/pipeline), [command](https://github.com/redhataccess/command), and [command-lang](https://github.com/redhataccess/command-lang)
+- [SFDeasy](https://github.com/FlossWare/commons-java) supporting Salesforce integration, including SOAP clients and fluent SOQL construction
+- [Solenopsis](https://github.com/solenopsis/Solenopsis), an open-source Salesforce deployment and automation platform
+- [soap](https://github.com/solenopsis/soap), [session](https://github.com/solenopsis/session), and [metadata](https://github.com/solenopsis/metadata)
 
-**Operating Systems:**
-Fedora, CentOS/RHEL/Rocky, Debian/antiX, FreeBSD, DragonflyBSD, NetBSD
-
-**Provisioning:** KOAN/Cobbler
-
-**Orchestration:** Ansible/Ansible Tower, Puppet
-
-**Virtualization:** Xen, KVM, Containers/Docker, Platforms, ClonOS, ProxMox, oVirt, RHEV
-
-**Cloud Platforms:** OpenStack, EC2
-
-**Wireless:** DD-WRT
-
-**Reporting/Monitoring:** Sumo Logic, Splunk, New Relic, Catchpoint
-
-**Development Languages:** Bash, Beanshell, MVEL, Java
-
-**Build Tools:** Ant, Maven, Jenkins, GitHub Runners
-
----
-
-## Experience
+## Professional Experience
 
 ### Red Hat
 **Search Engineering**
 
-#### Senior Principal Software Engineer / Architect, Search Engineering
-*April 2025 - Present*
+#### Senior Principal Software Engineer / Architect
+*April 2025 – Present*
 
-- GitOps-managed observability: Sumo Logic dashboards and alerts version-controlled in GitLab with automated deployment
-- Leading Splunk decommissioning and migration to Sumo Logic across Search Engineering
-- Authored comprehensive team onboarding documentation covering Jira, GitLab, Solr, AWS, Sumo Logic, and dev environment setup
-- Continuing ownership of Disseminator content pipeline (312+ releases, v2.531)
-- Author of open source libraries actively used at Red Hat: [commons-java](https://github.com/FlossWare/commons-java) ([FlossWare](https://github.com/FlossWare)), [soap](https://github.com/solenopsis/soap) and [session](https://github.com/solenopsis/session) ([Solenopsis](https://github.com/solenopsis)) -- underpinning SFDeasy, Red Hat's internal Java library for Salesforce integration providing SOAP API clients for 15+ custom web services and a fluent SOQL query builder
-- Embracing Red Hat's AI-first mantra and acquainting myself with AI technologies, designed and built a distributed LLM orchestration framework:
-  - Multi-model consensus and adversarial review across 200+ LLMs from multiple providers
-  - Thompson Sampling (Bayesian bandit) for intelligent model routing
-  - Genetic algorithms for configuration evolution and optimization
-  - Web scraping pipeline with 116+ automated scrapers across 15+ domains
-  - PostgreSQL with pgvector for document chunking, vector embeddings, HNSW indexing, and semantic retrieval
-  - OrientDB for knowledge graph traversal and relationship mapping
-  - Redis for pipeline queuing, rate limiting, and caching
-  - Fleet-based task distribution across 9 nodes with Ansible-automated deployment
-  - Integrated with Claude Code, G Suite, Ansible Tower, Jira, GitLab, GitHub, Sumo Logic, Trello, Grafana, Prometheus, and Notion
+- Lead architecture and engineering for search-platform infrastructure, observability, content dissemination, and AI initiatives.
+- Own the **Disseminator** content pipeline, now exceeding **312 production releases**, delivering Red Hat knowledge content into Solr for search.
+- Lead the Search Engineering migration from Splunk to Sumo Logic and establish GitOps-managed dashboards, alerts, and deployment workflows.
+- Designed and built a distributed LLM orchestration platform supporting multi-model consensus, adversarial review, intelligent model routing, and automated configuration optimization.
+- Built a knowledge pipeline with **116+ automated scrapers across 15+ domains**, PostgreSQL/pgvector semantic retrieval, HNSW indexing, OrientDB knowledge graphs, Redis queues, and distributed fleet execution.
+- Applied **Thompson Sampling** for model selection and **genetic algorithms** for configuration evolution and optimization.
+- Integrated engineering workflows with Claude Code, Ansible Tower, Jira, GitLab, GitHub, Sumo Logic, Grafana, Prometheus, Notion, and related development systems.
+- Author of open-source Java libraries used within Red Hat, including [commons-java](https://github.com/FlossWare/commons-java), [soap](https://github.com/solenopsis/soap), and [session](https://github.com/solenopsis/session).
 
-#### Principal Software Engineer / Architect, Search Engineering
-*September 2016 - April 2025 (8 years 8 months)*
+#### Principal Software Engineer / Architect
+*September 2016 – April 2025*
 
-- Architect and lead developer of Disseminator -- an Apache Camel-based content dissemination pipeline that indexes Red Hat knowledge base content (errata, solutions, articles) into Solr for Customer Portal search
-- Managed 300+ production releases through automated CI/CD pipelines (Jenkins, SonarQube, GitLab)
-- Architect of four open source Java libraries under the [Red Hat GitHub organization](https://github.com/redhataccess): [pipeline](https://github.com/redhataccess/pipeline), [command](https://github.com/redhataccess/command), [command-lang](https://github.com/redhataccess/command-lang), and [commons](https://github.com/redhataccess/commons)
-- Built and maintained production monitoring and alerting infrastructure (Splunk, New Relic)
-- System administrator for search infrastructure; responsible for system stability and uptime
-- Java developer/architect, release engineer, and continuous delivery champion
+- Architect and lead developer of **Disseminator**, an Apache Camel-based content dissemination pipeline indexing Red Hat errata, solutions, and articles into Solr for Customer Portal search.
+- Managed **300+ production releases** through automated Jenkins, SonarQube, and GitLab CI/CD pipelines.
+- Architected four open-source Java libraries under the Red Hat GitHub organization: [pipeline](https://github.com/redhataccess/pipeline), [command](https://github.com/redhataccess/command), [command-lang](https://github.com/redhataccess/command-lang), and [commons](https://github.com/redhataccess/commons).
+- Built and maintained production monitoring and alerting infrastructure using Splunk and New Relic.
+- Served as system administrator and technical owner for search infrastructure, stability, and uptime.
 
-#### Technical Lead/Principal Software Engineer, Strata
-*September 2015 - September 2016 (1 year 1 month)*
+#### Technical Lead / Principal Software Engineer, Strata
+*September 2015 – September 2016*
 
-- Led the technical efforts of the Strata team.
-- Champion/implementer of the continuous delivery effort to shorten delivery times to production through a new dev-ops process.
+- Led the technical direction of the Strata team and drove continuous-delivery adoption.
+- Established development and operational practices that shortened the path from development to production.
 
-#### Technical Lead/Senior Software Engineer, Strata
-*June 2013 - September 2015 (2 years 4 months)*
+#### Technical Lead / Senior Software Engineer, Strata
+*June 2013 – September 2015*
 
-- Lead the technical efforts of the Strata team.
-- Drove process and quality through code reviews, intra-team coordination, etc.
-- Lead effort to migrate from JBoss EAP 4.3 to EAP 6.1.
+- Led technical direction, code reviews, architecture, and cross-team coordination.
+- Led the migration from JBoss EAP 4.3 to EAP 6.1.
 
 #### Senior Software Engineer, Diagnostics
-*June 2012 - June 2013 (1 year 1 month)*
+*June 2012 – June 2013*
 
-- Transitioned from the Customer Case Management Team to facilitate massive data querying from Salesforce for population/synchronization to Lucene indexes.
-- Architected single framework for polling/indexing data from third party systems.
-- Forked my Lasius Github project to simplify data gathering from Salesforce to Lucene indexes.
+- Architected high-volume Salesforce data acquisition and synchronization into Lucene indexes.
+- Designed a reusable framework for polling and indexing data from third-party systems.
 
 #### Technical Lead, Customer Case Manager
-*November 2010 - June 2012 (1 year 8 months)*
+*November 2010 – June 2012*
 
-- Salesforce feature development/bug triage.
-- Architect Solenopsis: Salesforce deployment tool developed in-house and used by Red Hat for deployments. Tool was later open sourced and presently available at GitHub.
-- Architect/Lead Developer for Xylem: A ticketing/case framework/application use to seamlessly integrate SAP's Solution Manager/Service Marketplace and Red Hat's Salesforce Org instance.
-- Release administrator for all development/production environments. Specifically leveraging Solenopsis and Jenkins for automated deployments.
+- Architected **Solenopsis**, an internal Salesforce deployment platform later released as open source.
+- Architected and led development of **Xylem**, integrating SAP Solution Manager/Service Marketplace with Red Hat Salesforce systems.
+- Automated development and production deployments using Solenopsis and Jenkins.
 
-#### Product Owner Customer Case Management
-*May 2011 - August 2011 (4 months)*
+#### Product Owner, Customer Case Management
+*May 2011 – August 2011*
 
-Acted as interim product owner of the Customer Case Management Team.
+- Served as interim product owner for the Customer Case Management team while continuing technical leadership responsibilities.
 
-#### Senior Software Engineer
-*July 2007 - October 2010 (3 years 4 months)*
+#### Senior Software Engineer, Enterprise Service Bus
+*July 2007 – October 2010*
 
-Member of the ESB (Enterprise Service Bus) team porting the existing Oracle BPEL ESB to a JBoss technology stack (specifically JBoss ESB). Redesigned XSD and accompanying XSLT's. Porting current JDBC layer that manipulates Oracle Trading Community Architecture (TCA) libraries to a pure plSQL implementation. Using Java 1.6.x, XSLT 1.0 and Git for source control. Practicing Agile development methodology.
-
-#### Senior Software Engineer
-*November 2005 - February 2007 (1 year 4 months)*
-
-Designed/implemented BPEL (Business Process Execution Language) processes for the G.I.S. Enterprise Service Bus (ESB) using Oracle JDeveloper 10.1.2.1.0/BPEL Server 10.1.2.0.2. The aforementioned BPEL processes provide such functionality as content based routing, Web Services (for example XML document transformations/enrichments), etc. Utilizing Java 1.4.2/JDBC/WSIF 2.0 for database access to Oracle Trading Community Architecture (TCA) libraries as well as to provide fine grained functionality to simplify BPEL flows. Subversion is used for source control.
-
----
+- Ported an Oracle BPEL enterprise service bus to a JBoss ESB architecture.
+- Redesigned XSD/XSLT integrations and replaced the JDBC data-access layer with PL/SQL implementations against Oracle TCA.
 
 ### Cisco
-**Application Architect/Principal Consultant**
-*February 2007 - July 2007 (6 months)*
-Morrisville, NC
+**Application Architect / Principal Consultant** · *February 2007 – July 2007*
 
-Wrote/presented high level technical documents based upon a combination of business requirements, functional specifications and technical design documents. Evaluated aforementioned documentation for "holes" or potential technical issues. Performed code reviews as well as developmental assistance (write code) when necessary to meet deadlines. Investigated new technologies for potential future developmental use. Analyzed/troubleshot application failures as issues arise. Platform supported JDK 1.4.2_02 and IBM Websphere Application Server 5.x. CVS used for source control and defect/feature tracking. 
-
----
+- Produced high-level technical architecture and design documentation from business and functional requirements.
+- Performed architecture reviews, code reviews, troubleshooting, and technology evaluations for enterprise Java applications.
 
 ### IneoUSA
-**Senior Software Engineer**
-*March 2004 - October 2005 (1 year 8 months)*
+**Senior Software Engineer** · *March 2004 – October 2005*
 
-Designed/architected and implemented core portions of the next generation Passwerks Security Suite. Architecture mandated writing requirements, high/low level designs and test procedures as well as utilizing Design Patterns, Dependency Injection (Inversion of Control via Spring 1.2.2), Separation of Concerns and Java 1.5.x (generics, autoboxing, enhanced for-loops, etc). Designed/developed Web Services using Java 1.4.x, Apache Axis 1.1 and Tomcat 4.1.27 for various Passwerks subsystems. Redesigned the development build environment using Ant 1.6.2. Used CVS 1.11.5 for source control and Bugzilla 2.16.2 for defect/enhancement tracking. Feature documentation written using Microsoft Word.
-
----
+- Architected and implemented core components of the Passwerks Security Suite using Java, Spring, dependency injection, design patterns, separation of concerns, and web services.
+- Redesigned the development build environment and established associated engineering practices.
 
 ### Datastream
-**Senior Software Engineer**
-*April 2003 - March 2004 (1 year)*
+**Senior Software Engineer** · *April 2003 – March 2004*
 
-Enterprise Java Beans (EJB 1.1) feature development for the Extended Web Services Project using the JBoss 3.2.x Application Server, Oracle 9.x, and Java Development Kit (JDK) 1.4.x.
-
----
+- Developed enterprise Java components and web services using EJB, JBoss, Oracle, and Java.
 
 ### Lucent
-**Senior Software Engineer**
-*February 2002 - November 2002 (10 months)*
+**Senior Software Engineer** · *February 2002 – November 2002*
 
-Responsible for the design and development of multiple Teleportal Voice XML Gateway features based upon customer/internal requirements. Feature development is based upon a formal process by which one must understand feature specifications, write documentation, group discussion/presentation, coding and code-reviews. All software written using Java (JDK 1.4.1) running on Solaris 5.7. Responsible for the architecture and maintenance of the Teleportal build/release environment using Ant 1.5.1 in conjunction with Unix shell scripts and Clearcase (for source control and defect/feature tracking). Documentation written using FrameMaker/Microsoft Word and Poseidon UML for UML diagramming.
+- Designed and developed Teleportal VoiceXML Gateway features and the supporting Java build/release infrastructure.
 
----
+### Bank of America
+**Senior Java Developer** · *December 2001 – February 2002*
 
-### Bank Of America
-**Senior Java Developer**
-*December 2001 - February 2002 (3 months)*
+- Developed a distributed business-rules framework supporting reusable client/server business logic.
 
-Developed generic business rules framework for the Global Investment Delivery Model Money Market Fund project. Functionality required a "no-fuss" mechanism to distribute business rule logic on both client and server as well as the capability to redistribute said functionality in a manner unbeknownst to code which rely on those rules. Software written in Java (JDK 1.2.2) using Borland JBuilder and required to run on Solaris and Windows NT 4.0. Visual Source Safe was used for source control.
+### Fujitsu Network Communications
+**Senior Software Engineer / Team Lead, TL1 Management** · *September 1999 – June 2001*
 
----
+- Led Java/CORBA development, mentored engineers, performed architecture and code reviews, and designed shared client/server functionality.
 
-### Fujitsu Network Communications, Inc.
-**Senior Software Engineer/Team Lead for TL1 Management**
-*September 1999 - June 2001 (1 year 10 months)*
+### HiddenMind Technologies
+**Senior Software Engineer** · *March 1997 – September 1999*
 
-Responsible for TL1 Management related functionality. This included mentoring junior engineers, performing code reviews, interfacing with other application groups, writing product design specifications as well as high level design documentation with accompanying UML class diagrams, and designing core functionality to be used by both clients and servers. All development required coding in Java (JDK 1.2.2)/Javacc, CORBA for client-server communication, Oracle as a persistent store (including PL/SQL), and running on Solaris. Clearcase was used for source control and defect/feature tracking. Framemaker was used for documentation.
+- Researched and implemented high-performance distributed, n-tier Java architectures across Solaris, Linux, and Windows.
+- Received U.S. Patent 6,442,565 for distributed computing technologies.
 
----
+### WiSE Medical Systems
+**Software Engineer** · *June 1994 – March 1997*
 
-### HiddenMind Technologies, Inc.
-**Senior Software Engineer**
-*March 1997 - September 1999 (2 years 7 months)*
-
-Main duties centered on research and development, specifically in the development of high-performance, distributed, n-tiered architectures in Java (JDK 1.1x) running on Solaris, Linux and Windows. Although doing research, the goal was to develop viable, working class libraries in which HiddenMind Technologies, Inc. could tackle applications in vertical markets. CMVC was used for source control and feature/defect tracking. Cafe/Visual Cafe Database Development Edition used if developing on Windows, or GVIM/make on Solaris. Received [U.S. Patent 6,442,565](https://patents.google.com/patent/US6442565) for distributed computing technologies.
-
----
-
-### WiSE Medical Systems, Inc.
-**Software Engineer**
-*June 1994 - March 1997 (2 years 10 months)*
-
-Responsible for architecture/implementation of various WiSE-Med servers and subsystems in C++ and Forte's TOOL. Platform requirements necessitated scaleable architectures (2, 3 or n-tiered), fault tolerant/load-balancing, transactional capabilities. Where necessary Sybase stored procedures were written. Writing/presenting functional specifications using Framemaker was required.
-
----
+- Architected and implemented C++ server and subsystem components with scalable, fault-tolerant, transactional architectures.
 
 ### First Data Health Systems Group
-**Client/Server Engineer**
-*July 1993 - June 1994 (1 year)*
+**Client/Server Engineer** · *July 1993 – June 1994*
 
-Designed an extensive class hierarchy of client/server C++ objects consisting of container, persistent, serialization/deserialization, and application specific classes. Wrote all SQL statements for ADT (Admit/Discharge/Transfer) healthcare C++ objects' persistence for use with Sybase and Oracle. Used SCCS for source control.
-
----
+- Designed C++ client/server class hierarchies and database persistence layers for Sybase and Oracle.
 
 ### AlliedSignal Automotive
-**Computer Programmer/Software Developer**
-*May 1989 - June 1993 (4 years 2 months)*
+**Computer Programmer / Software Developer** · *May 1989 – June 1993*
 
-Developed a robust C++ class library encompassing persistent, container, task and message objects using Borland C++ 2.0.
+- Developed a reusable C++ class library covering persistence, containers, tasks, and messaging.
 
----
+## Technical Skills
+
+**Languages:** Java, C++, Bash, SQL, PL/SQL, XSLT, MVEL, BeanShell  
+**Search & Data:** Apache Solr, Lucene, PostgreSQL, pgvector, OrientDB, Redis  
+**AI/ML:** LLM orchestration, embeddings, semantic retrieval, vector search, knowledge graphs, model evaluation, Bayesian bandits, genetic algorithms  
+**Integration:** Apache Camel, REST, SOAP, Salesforce, BPEL, JDBC, CORBA  
+**Cloud & Infrastructure:** AWS/EC2, OpenStack, KVM, Xen, Docker/containers, Ansible, Puppet, DD-WRT  
+**Delivery:** Git, GitLab, GitHub Actions/Runners, Jenkins, Maven, Ant, GitOps  
+**Observability:** Sumo Logic, Splunk, New Relic, Grafana, Prometheus  
+**Operating Systems:** RHEL/Fedora, Debian, FreeBSD, NetBSD, DragonFly BSD
+
+## Intellectual Property
+
+**U.S. Patent 6,442,565 — Distributed Computing Technologies**  
+[Google Patents](https://patents.google.com/patent/US6442565)
 
 ## Education
 
-**University of North Carolina at Charlotte**
-Computer Science (1989 - 1993)
+**University of North Carolina at Charlotte**  
+Computer Science · 1989 – 1993
 
-**State University of New York at Cobleskill**
-Associate of Science (A.S.), Computer Science (1987 - 1989)
+**State University of New York at Cobleskill**  
+Associate of Science (A.S.), Computer Science · 1987 – 1989
+
+## Certifications & Professional Development
+
+- Red Hat Certified Technician · Certificate 605010084735240
+- Psychological Safety: Clear Blocks to Innovation, Collaboration, and Risk-Taking
+- Introduction to Artificial Intelligence
+- Prompt Engineering with Gemini · 2024
+- Ethics in the Age of Generative AI
