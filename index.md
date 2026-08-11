@@ -2,12 +2,11 @@
 title: Scot P. Floess - Résumé
 ---
 
-# Scot P. Floess
-
-**Senior Principal Software Engineer · Search Engineering · AI/ML · Distributed Systems**
-
-Louisburg, NC  
-[Email](mailto:scot.floess@gmail.com) · [LinkedIn](https://www.linkedin.com/in/scot-floess-a535a41) · [GitHub](https://github.com/sfloess) · [FlossWare](https://github.com/FlossWare) · [Solenopsis](https://github.com/solenopsis)
+<div class="resume-header">
+  <h1>Scot P. Floess</h1>
+  <p class="resume-title"><strong>Senior Principal Software Engineer · Search Engineering · AI/ML · Distributed Systems</strong></p>
+  <p class="resume-contact">Louisburg, NC · <a href="mailto:scot.floess@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/scot-floess-a535a41">LinkedIn</a> · <a href="https://github.com/sfloess">GitHub</a> · <a href="https://github.com/FlossWare">FlossWare</a> · <a href="https://github.com/solenopsis">Solenopsis</a></p>
+</div>
 
 ---
 
