@@ -71,6 +71,7 @@ Started as an internal Red Hat Salesforce deployment and automation platform and
 
 - Architect and lead developer of **Disseminator**, an Apache Camel-based content dissemination pipeline indexing Red Hat errata, solutions, and articles into Solr for Customer Portal search.
 - Managed **300+ production releases** through automated Jenkins, SonarQube, and GitLab CI/CD pipelines.
+- Led the migration of the organization's **Phoenix (PHX) data center infrastructure to Amazon Web Services (AWS), using Amazon EC2**, helping drive a major transition from on-premises data-center infrastructure to cloud-hosted infrastructure.
 - Architected four open-source Java libraries under the Red Hat GitHub organization: [pipeline](https://github.com/redhataccess/pipeline), [command](https://github.com/redhataccess/command), [command-lang](https://github.com/redhataccess/command-lang), and [commons](https://github.com/redhataccess/commons).
 - Built and maintained production monitoring and alerting infrastructure using Splunk and New Relic.
 - Served as system administrator and technical owner for search infrastructure, stability, and uptime.
