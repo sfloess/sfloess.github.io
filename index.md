@@ -30,12 +30,14 @@ Senior Principal Software Engineer and architect specializing in **search, distr
 ### FlossWare
 **Founder / Architect** · [GitHub](https://github.com/FlossWare) · [flossware.org](https://flossware.org)
 
-Designed and built an independent open-source AI and knowledge-engineering ecosystem spanning web acquisition, semantic processing, vector retrieval, knowledge graphs, distributed orchestration, and model evaluation.
+Designed and built an independent open-source AI and knowledge-engineering ecosystem spanning web acquisition, semantic processing, vector retrieval, knowledge graphs, distributed orchestration, model evaluation, and engineering observability.
 
 - Designed and built a distributed **LLM orchestration platform** supporting multi-model consensus, adversarial review, intelligent model routing, and automated configuration optimization.
 - Built a knowledge pipeline with **116+ automated scrapers across 15+ domains**, PostgreSQL/pgvector semantic retrieval, HNSW indexing, OrientDB knowledge graphs, Redis queues, and distributed fleet execution.
 - Applied **Thompson Sampling** for model selection and **genetic algorithms** for configuration evolution and optimization.
 - Built asynchronous processing stages for acquisition, storage, chunking, embedding, semantic retrieval, and graph construction.
+- Built and used **Grafana and Prometheus** for personal infrastructure and project observability, alongside **Notion** for engineering documentation and knowledge management.
+- Used **Graphene** as part of personal engineering work and experimentation outside Red Hat.
 - Designed the platform around REST APIs and replaceable infrastructure implementations, keeping storage, queueing, vector, and graph technologies modular.
 
 ## Red Hat Open Source
@@ -49,7 +51,7 @@ Started as an internal Red Hat Salesforce deployment and automation platform and
 **Architect / Co-Architect**
 
 - [commons](https://github.com/redhataccess/commons), [pipeline](https://github.com/redhataccess/pipeline), [command](https://github.com/redhataccess/command), and [command-lang](https://github.com/redhataccess/command-lang)
-- [SFDeasy](https://github.com/FlossWare/commons-java) supporting Salesforce integration, including SOAP clients and fluent SOQL construction
+- **SFDeasy**, Red Hat's internal Java library for Salesforce integration, including SOAP clients and fluent SOQL construction
 - [soap](https://github.com/solenopsis/soap), [session](https://github.com/solenopsis/session), and [metadata](https://github.com/solenopsis/metadata)
 
 ## Professional Experience
@@ -63,7 +65,6 @@ Started as an internal Red Hat Salesforce deployment and automation platform and
 - Lead architecture and engineering for search-platform infrastructure, observability, content dissemination, and related engineering initiatives.
 - Own the **Disseminator** content pipeline, now exceeding **312 production releases**, delivering Red Hat knowledge content into Solr for search.
 - Lead the Search Engineering migration from Splunk to Sumo Logic and establish GitOps-managed dashboards, alerts, and deployment workflows.
-- Integrate engineering workflows with Claude Code, Ansible Tower, Jira, GitLab, GitHub, Sumo Logic, Grafana, Prometheus, Notion, and related development systems.
 - Author and maintain open-source Java libraries used within Red Hat, including [commons-java](https://github.com/FlossWare/commons-java), [soap](https://github.com/solenopsis/soap), and [session](https://github.com/solenopsis/session).
 
 #### Principal Software Engineer / Architect
@@ -174,6 +175,7 @@ Started as an internal Red Hat Salesforce deployment and automation platform and
 **Cloud & Infrastructure:** AWS/EC2, OpenStack, KVM, Xen, Docker/containers, Ansible, Puppet, DD-WRT  
 **Delivery:** Git, GitLab, GitHub Actions/Runners, Jenkins, Maven, Ant, GitOps  
 **Observability:** Sumo Logic, Splunk, New Relic, Grafana, Prometheus  
+**Personal Engineering:** Notion, Graphene  
 **Operating Systems:** RHEL/Fedora, Debian, FreeBSD, NetBSD, DragonFly BSD
 
 ## Intellectual Property
