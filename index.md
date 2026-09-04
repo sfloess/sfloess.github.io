@@ -4,7 +4,7 @@ title: Scot P. Floess - Résumé
 
 <div class="resume-header">
   <h1>Scot P. Floess</h1>
-  <p class="resume-title"><strong>Senior Principal Software Engineer · Search Engineering · AI/ML · Distributed Systems</strong></p>
+  <p class="resume-title"><strong>Senior Principal Software Engineer · Search Engineering · Information Retrieval · AI/ML · Distributed Systems</strong></p>
   <p class="resume-contact">Louisburg, NC · <a href="mailto:scot.floess@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/scot-floess-a535a41">LinkedIn</a> · <a href="https://github.com/sfloess">GitHub</a> · <a href="https://github.com/FlossWare">FlossWare</a> · <a href="https://github.com/solenopsis">Solenopsis</a></p>
 </div>
 
@@ -12,7 +12,7 @@ title: Scot P. Floess - Résumé
 
 ## Profile
 
-Senior Principal Software Engineer and architect specializing in **search, distributed systems, enterprise integration, AI/ML, and knowledge platforms**. More than 35 years of software engineering experience, including nearly two decades at Red Hat, designing and delivering production systems across search, content pipelines, Salesforce integration, cloud infrastructure, and developer platforms. Architect of production Apache Solr search systems, with independent open-source work spanning AI orchestration, semantic retrieval, vector search, knowledge graphs, and model evaluation. Open-source architect and inventor with a U.S. patent in distributed computing.
+Senior Principal Software Engineer and architect specializing in **search, information retrieval, distributed systems, enterprise integration, AI/ML, and knowledge platforms**. More than 40 years of hands-on software engineering experience, including nearly two decades at Red Hat, designing and delivering production systems across search, content pipelines, Salesforce integration, cloud infrastructure, and developer platforms. Architect of production Apache Solr search systems, with independent open-source work spanning AI orchestration, semantic retrieval, vector search, knowledge graphs, and model evaluation. Open-source architect and inventor with a U.S. patent in distributed computing.
 
 ## Core Expertise
 
@@ -30,15 +30,20 @@ Senior Principal Software Engineer and architect specializing in **search, distr
 ### FlossWare
 **Founder / Architect** · [GitHub](https://github.com/FlossWare) · [flossware.org](https://flossware.org)
 
-Designed and built an independent open-source AI and knowledge-engineering ecosystem spanning web acquisition, semantic processing, vector retrieval, knowledge graphs, distributed orchestration, model evaluation, and engineering observability.
+Designed and built an independent open-source engineering ecosystem spanning AI and knowledge engineering, web acquisition, semantic processing, vector retrieval, knowledge graphs, distributed orchestration, model evaluation, infrastructure automation, and engineering observability.
 
 - Designed and built a distributed **LLM orchestration platform** supporting multi-model consensus, adversarial review, intelligent model routing, and automated configuration optimization.
-- Built a knowledge pipeline with **116+ automated scrapers across 15+ domains**, PostgreSQL/pgvector semantic retrieval, HNSW indexing, OrientDB knowledge graphs, Redis queues, and distributed fleet execution.
+- Built a knowledge pipeline with **88+ automated scrapers across 12 domains**, PostgreSQL/pgvector semantic retrieval, HNSW indexing, OrientDB knowledge graphs, Redis queues, and distributed fleet execution.
 - Applied **Thompson Sampling** for model selection and **genetic algorithms** for configuration evolution and optimization.
 - Built asynchronous processing stages for acquisition, storage, chunking, embedding, semantic retrieval, and graph construction.
 - Built and used **Grafana and Prometheus** for personal infrastructure and project observability, alongside **Notion** for engineering documentation and knowledge management.
 - Used **Graphene** as part of personal engineering work and experimentation outside Red Hat.
 - Designed the platform around REST APIs and replaceable infrastructure implementations, keeping storage, queueing, vector, and graph technologies modular.
+
+### Cobbler Provisioning Templates
+**Open-source project** · [FlossWare/cobbler](https://github.com/FlossWare/cobbler)
+
+Created a reusable collection of Cobbler templates and provisioning assets supporting **RHEL/Fedora, Debian/Ubuntu, and FreeBSD**, including Kickstart, Preseed, install scripts, snippets, and disk-partitioning patterns. The project is referenced directly by the **official Cobbler documentation as a useful community repository for automatic-installation templating examples**.
 
 ## Red Hat Open Source
 
